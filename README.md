@@ -127,6 +127,6 @@ Open the notebook file and run all cells.
 
 ## 👩‍💻 Author
 
-**Nisarga**   
+**Nisarga Y**   
 
 ---
